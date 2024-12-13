@@ -14,6 +14,7 @@ Git
 
 2.Instala las dependencias necesarias
 npm install
+npm install @faker-js/faker@^9.3.0 @serenity-js/assertions@^3.30.0 @serenity-js/core@^3.31.0 @serenity-js/cucumber@^3.30.0 @serenity-js/playwright@^3.30.0 @serenity-js/serenity-bdd@^3.30.0 @serenity-js/web@^3.31.0 playwright@^1.49.1 ts-node@^10.9.2 typescript@^5.7.2
 
 
 3.Para generar el reporte con Allure, necesitas instalar la herramienta de Allure y el adaptador de Playwright:
