@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","29659","User can fill out the form with phone number 3201234563 and see the confirmation popup","chromium","Fri Dec 13 14:51:11 COT 2024","passed","Fri Dec 13 14:51:40 COT 2024","Form automation tests","fillFormTest.spec.ts","",""
+"","30948","User can fill out the form with phone number 3215689101 and see the confirmation popup","chromium","Fri Dec 13 14:50:05 COT 2024","passed","Fri Dec 13 14:50:36 COT 2024","Form automation tests","fillFormTest.spec.ts","",""
+"","34771","User can fill out the form with phone number 3225678902 and see the confirmation popup","chromium","Fri Dec 13 14:50:36 COT 2024","passed","Fri Dec 13 14:51:11 COT 2024","Form automation tests","fillFormTest.spec.ts","",""
+"","29661","User can fill out the form with phone number 3109876544 and see the confirmation popup","chromium","Fri Dec 13 14:51:40 COT 2024","passed","Fri Dec 13 14:52:10 COT 2024","Form automation tests","fillFormTest.spec.ts","",""
+"","29486","User can fill out the form with phone number 3006543215 and see the confirmation popup","chromium","Fri Dec 13 14:52:10 COT 2024","passed","Fri Dec 13 14:52:40 COT 2024","Form automation tests","fillFormTest.spec.ts","",""
