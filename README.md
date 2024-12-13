@@ -98,3 +98,4 @@ Confirmar el cambio: PowerShell te pedirá confirmación. Escribe Y (Yes) para c
 Verificar que la política se ha cambiado: Vuelve a ejecutar:
 Get-ExecutionPolicy
 Ejecuta allure generate allure-results --clean -o allure-report
+![image](https://github.com/user-attachments/assets/9f22771a-2133-48ed-afbf-f2bad640bb4a)
